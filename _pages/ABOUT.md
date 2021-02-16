@@ -1,6 +1,6 @@
 ---
 title: "ABOUT"
-permalink: /About/
+permalink: /about/
 layout: single
 # layout: post
 subtitle: "about me"
