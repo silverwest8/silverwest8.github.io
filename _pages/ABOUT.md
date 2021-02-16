@@ -11,7 +11,7 @@ tag: [Github io]
 
 > I'm a ... !
 
----
+
 
 # ☎️ Contact information
 
@@ -21,7 +21,7 @@ tag: [Github io]
 
 🔗 LinkedIn
 
----
+
 
 # **👩🏻‍💻** Work experience
 
@@ -31,7 +31,7 @@ tag: [Github io]
 
 Your description here
 
----
+
 
 # 🛠 Skills
 
@@ -41,7 +41,7 @@ Your description here
 
 <!-- My "native" programming language, I've worked with it for over 6 years. I've used it in the front-end with React and Redux, in the back-end for APIs with Node, Express and Hapi.js and for testing automation using Mocha and later on, Jest. -->
 
----
+
 
 ## 🗣 Languages
 
@@ -51,11 +51,11 @@ Native speaker
 
 ### English 🇺🇸
 
----
+
 
 # 📜 Articles and Talks
 
----
+
 
 # 📚 Education
 
