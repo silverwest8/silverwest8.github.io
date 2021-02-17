@@ -9,7 +9,6 @@ tag: [Github io, Notion]
 ---
 
 
-
 A conversation with Ray Garcia, Jonathan Gold, Evan Kleiman, Bricia Lopez, and Carlos Salgado about the evolving role of Mexican cuisine in LA as culture, art, and craft
 
 Source: [Food Icons on the Evolving Role of Mexican Cuisine in LA](http://blogs.getty.edu/iris/5-food-icons-on-the-evolving-role-of-mexican-cuisine-in-la/)
