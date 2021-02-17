@@ -2,7 +2,6 @@
 title: "ABOUT"
 permalink: /about/
 layout: single
-# layout: post
 subtitle: "about me"
 date: 2021-02-07 22:44
 # background: 

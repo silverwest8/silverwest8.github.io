@@ -1,7 +1,7 @@
 ---
 title: "Sample Blog Post"
 permalink: /daylife/
-layout: single
+layout: posts
 subtitle: ""
 date: 2021-02-07 11:24
 # background: 
